@@ -9,7 +9,8 @@ h1{
 .orang-color{
     color: orange;
 }
-section{
+.flexible-contaer
+{
     display: flex;
     margin-bottom: 150px;
 
